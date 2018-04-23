@@ -1,0 +1,15 @@
+word = 'banana'
+print("word", word)
+new_word = word.upper()
+print("word.upper()", new_word)
+index = word.find('a')
+print("word.find('a')", index)
+index = word.find('na')
+print("word.find('na')", index)
+index = word.find('na', 3)
+print("word.find('na', 3)", index)
+line = ' Here we go '
+stripped = line.strip()
+print("stripped", "\"" + stripped + "\"")
+print("line.startswith(' Have')", line.startswith(' Here'))
+print("line.startswith('Here')", line.startswith('Here'))

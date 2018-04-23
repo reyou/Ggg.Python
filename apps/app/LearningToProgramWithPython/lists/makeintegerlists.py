@@ -1,0 +1,17 @@
+'''
+ we can make a list from a range using the list function
+'''
+
+
+def main():
+    a = list(range(0, 10))
+    print(a)
+    a = list(range(10, -1, -1))
+    print(a)
+    a = list(range(0, 100, 10))
+    print(a)
+    a = list(range(-5, 6))
+    print(a)
+
+
+main()

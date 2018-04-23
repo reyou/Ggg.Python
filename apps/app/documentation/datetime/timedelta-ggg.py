@@ -1,0 +1,10 @@
+from datetime import timedelta
+d = timedelta(microseconds=-1)
+qqq = (d.days, d.seconds, d.microseconds)
+print("\n d:")
+print(d)
+print("\n qqq:")
+print(qqq)
+h = timedelta(hours=-5)
+print("\n h:")
+print(h)

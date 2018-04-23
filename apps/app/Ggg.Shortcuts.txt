@@ -1,0 +1,3 @@
+ctrl + alt + l => format document
+shift + f6 => rename
+ctrl + shift + f10 => run current document

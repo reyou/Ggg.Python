@@ -1,0 +1,5 @@
+Some objects define standard clean-up actions to be undertaken when the
+object is no longer needed, regardless of whether or not the operation using
+the object succeeded or failed. Look at the following example, which tries to open
+a file and print its contents to the screen.
+
