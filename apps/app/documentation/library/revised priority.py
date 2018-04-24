@@ -17,6 +17,11 @@ def add_task(task, priority=0):
     'Add a new task or update the priority of an existing task'
     if task in entry_finder:
         remove_task(task)
+    """
+    Retrieve the next item from the iterator by calling its next() 
+    method. If default is given, it is returned if the iterator is 
+    exhausted, otherwise StopIteration is raised.
+    """
     count = next(counter)
     entry = [priority, count, task]
     entry_finder[task] = entry
@@ -43,3 +48,30 @@ def pop_task():
             del entry_finder[task]
             return task
     raise KeyError('pop from an empty priority queue')
+
+
+class Task:
+    def __init__(self, title):
+        self.title = title
+
+
+task_create = Task("create")
+add_task(task_create, 3)
+task_read = Task("read")
+add_task(task_read, 1)
+task_update = Task("update")
+add_task(task_update, 2)
+task_delete = Task("delete")
+add_task(task_delete, 4)
+# popping task title: read (and deletes from queue)
+task = pop_task()
+print("\n", "task", "(" + str(type(task)) + ") =>")
+print(task.title)
+print("\n")
+# removes task title: update
+remove_task(task_update)
+# popping task title: create
+task = pop_task()
+print("\n", "task", "(" + str(type(task)) + ") =>")
+print(task.title)
+print("\n")
