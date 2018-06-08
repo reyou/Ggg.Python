@@ -21,13 +21,18 @@ returned object has some extra methods described below.
 """
 Open the URL url, which can be either a string or a Request object.
 """
-from urllib.request import urlopen
-with urlopen('http://pypi.python.org/pypi/Twisted/json') as url:
-    http_info = url.info()
-    url_read = url.read()
-    content_charset = http_info.get_content_charset()
-    if content_charset is None:
-        content_charset = "utf-8"
-    raw_data = url_read.decode(content_charset)
-project_info = json.loads(raw_data)
-pprint.pprint(project_info)
+
+try:
+    from urllib.request import urlopen
+    with urlopen('https://pypi.python.org/pypi/Twisted/json') as url:
+        http_info = url.info()
+        url_read = url.read()
+        content_charset = http_info.get_content_charset()
+        if content_charset is None:
+            content_charset = "utf-8"
+        raw_data = url_read.decode(content_charset)
+    project_info = json.loads(raw_data)
+    pprint.pprint(project_info)
+except Exception as ex:
+    print(type(ex))
+    print(ex)
