@@ -4,12 +4,14 @@ JavaScript syntax (ECMA-262 3rd edition) used as a lightweight
 data interchange format.
 """
 import json
+
 """
 module pprint
 Support to pretty-print lists, tuples, & dictionaries recursively.
 Very simple, but useful, especially in debugging data structures.
 """
 import pprint
+
 """
 request
 An extensible library for opening URLs using a variety of protocols
@@ -24,7 +26,8 @@ Open the URL url, which can be either a string or a Request object.
 
 try:
     from urllib.request import urlopen
-    with urlopen('https://pypi.python.org/pypi/Twisted/json') as url:
+
+    with urlopen('https://api.randomuser.me/') as url:
         http_info = url.info()
         url_read = url.read()
         content_charset = http_info.get_content_charset()

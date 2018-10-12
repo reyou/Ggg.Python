@@ -1,8 +1,11 @@
+from sys import stdin
+
 from stopwatch import Stopwatch
+
 
 # This single line means that the CountingStopwatch
 # class inherits everything from the Stopwatch class.
-# CountingStopwatchobjects automatically will have
+# CountingStopwatch objects automatically will have
 # start, stop, reset, and elapsed methods.
 class CountingStopwatch(Stopwatch):
     def __init__(self):
@@ -19,6 +22,7 @@ class CountingStopwatch(Stopwatch):
         super(CountingStopwatch, self).start()
         # Count this start message
         self.__count += 1
+        print("Started")
 
     def reset(self):
         # Let superclass reset the inherited fields
@@ -28,3 +32,8 @@ class CountingStopwatch(Stopwatch):
 
     def count(self):
         return self.__count
+
+
+countingStopwatch = CountingStopwatch()
+countingStopwatch.start()
+stdin.read(1)
