@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4286b65e-d14e-4cd9-93ec-a40dbc74239d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/customTypes/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/functions/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/handlingExceptions/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/../app-docs/documentation/library/functoolsExamples/LRU cache for static web content.py" afterPath="$PROJECT_DIR$/../app-docs/documentation/library/functoolsExamples/LRU cache for static web content.py" />
-      <change beforePath="$PROJECT_DIR$/../app-docs/documentation/library/pprintExamples/fetch information.py" afterPath="$PROJECT_DIR$/../app-docs/documentation/library/pprintExamples/fetch information.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fd89c93de1332f0f86829ad9fbc7f80da79bdb5" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcc4929c393b5334dbdd47ae89102a45741da3d3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f482d7d94bd2546868cf8d2783a2a897ba12e0ac" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f57e1fa7013923ae65ef99cdbc1a79a0a6c83075" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Hands-on Python Tutorial/Graphics/bounce4.py" afterPath="$PROJECT_DIR$/src/Graphics/bounce4.py" />
-      <change beforePath="$PROJECT_DIR$/Hands-on Python Tutorial/Graphics/graphIntro.py" afterPath="$PROJECT_DIR$/src/Graphics/graphIntro.py" />
-      <change beforePath="$PROJECT_DIR$/Hands-on Python Tutorial/Graphics/graphics.py" afterPath="$PROJECT_DIR$/src/Graphics/graphics.py" />
-      <change beforePath="$PROJECT_DIR$/Hands-on Python Tutorial/Graphics/randomCircles.py" afterPath="$PROJECT_DIR$/src/Graphics/randomCircles.py" />
-      <change beforePath="$PROJECT_DIR$/Hands-on Python Tutorial/examples-zip.url" afterPath="$PROJECT_DIR$/src/Graphics/bookmarks/examples-zip.url" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/BankAccount.py" afterPath="$PROJECT_DIR$/src/customTypes/BankAccount.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/EmployeeRecord.py" afterPath="$PROJECT_DIR$/src/customTypes/EmployeeRecord.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/GggFileReader.py" afterPath="$PROJECT_DIR$/src/customTypes/GggFileReader.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/Point.py" afterPath="$PROJECT_DIR$/src/customTypes/Point.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/Rational.py" afterPath="$PROJECT_DIR$/src/customTypes/Rational.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/RationalNum.py" afterPath="$PROJECT_DIR$/src/customTypes/RationalNum.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/__init__.py" afterPath="$PROJECT_DIR$/../app-docs/documentation/library/filesysExamples/Basic use.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/bettersearchcompare.py" afterPath="$PROJECT_DIR$/src/customTypes/bettersearchcompare.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/countingstopwatch.py" afterPath="$PROJECT_DIR$/src/customTypes/countingstopwatch.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/data.dat" afterPath="$PROJECT_DIR$/src/customTypes/data.dat" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/employee.py" afterPath="$PROJECT_DIR$/src/customTypes/employee.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/geometricTypes.py" afterPath="$PROJECT_DIR$/src/customTypes/geometricTypes.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/stopwatch.py" afterPath="$PROJECT_DIR$/src/customTypes/stopwatch.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/tester.py" afterPath="$PROJECT_DIR$/src/customTypes/tester.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/testliststuff.py" afterPath="$PROJECT_DIR$/src/customTypes/testliststuff.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/usecountingsw.py" afterPath="$PROJECT_DIR$/src/customTypes/usecountingsw.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggConditional.py" afterPath="$PROJECT_DIR$/src/functions/GggConditional.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggDate.py" afterPath="$PROJECT_DIR$/src/functions/GggDate.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggFunctions.py" afterPath="$PROJECT_DIR$/src/functions/GggFunctions.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggIteration.py" afterPath="$PROJECT_DIR$/src/functions/GggIteration.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggLog.py" afterPath="$PROJECT_DIR$/src/functions/GggLog.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggMath.py" afterPath="$PROJECT_DIR$/src/functions/GggMath.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggRandom.py" afterPath="$PROJECT_DIR$/src/functions/GggRandom.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/GggTroubleshoot.py" afterPath="$PROJECT_DIR$/src/functions/GggTroubleshoot.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/badfloatcheck.py" afterPath="$PROJECT_DIR$/src/functions/badfloatcheck.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/betterinputfunc.py" afterPath="$PROJECT_DIR$/src/functions/betterinputfunc.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/calculator.py" afterPath="$PROJECT_DIR$/src/functions/calculator.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/countdown.py" afterPath="$PROJECT_DIR$/src/functions/countdown.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/floatequals.py" afterPath="$PROJECT_DIR$/src/functions/floatequals.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/gcdwithmain.py" afterPath="$PROJECT_DIR$/src/functions/gcdwithmain.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/greatestCommonFactor.py" afterPath="$PROJECT_DIR$/src/functions/greatestCommonFactor.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/parampassing.py" afterPath="$PROJECT_DIR$/src/functions/parampassing.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/primefunc.py" afterPath="$PROJECT_DIR$/src/functions/primefunc.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/simplefloataddition.py" afterPath="$PROJECT_DIR$/src/functions/simplefloataddition.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/simplefunction.py" afterPath="$PROJECT_DIR$/src/functions/simplefunction.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/sortintegers.py" afterPath="$PROJECT_DIR$/src/functions/sortintegers.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/squarerootcomparison.py" afterPath="$PROJECT_DIR$/src/functions/squarerootcomparison.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/squarerootfunction.py" afterPath="$PROJECT_DIR$/src/functions/squarerootfunction.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/functions/treefunc.py" afterPath="$PROJECT_DIR$/src/functions/treefunc.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/handlingExceptions/exceptionExamples.py" afterPath="$PROJECT_DIR$/src/handlingExceptions/exceptionExamples.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/handlingExceptions/handlepitfalls.py" afterPath="$PROJECT_DIR$/src/handlingExceptions/handlepitfalls.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/handlingExceptions/listException.py" afterPath="$PROJECT_DIR$/src/handlingExceptions/listException.py" />
-      <change beforePath="$PROJECT_DIR$/LearningToProgramWithPython/handlingExceptions/pitfalls.py" afterPath="$PROJECT_DIR$/src/handlingExceptions/pitfalls.py" />
-      <change beforePath="$PROJECT_DIR$/interviewQuestions/letterCombinations.py" afterPath="$PROJECT_DIR$/src/interviewQuestions/letterCombinations.py" />
-      <change beforePath="$PROJECT_DIR$/kaggle.com/colinmorris/functions/README.md" afterPath="$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/README.md" />
-      <change beforePath="$PROJECT_DIR$/kaggle.com/colinmorris/hello-python/Builtin functions for working with numbers.py" afterPath="$PROJECT_DIR$/src/kaggle.com/colinmorris/hello-python/Builtin functions for working with numbers.py" />
-      <change beforePath="$PROJECT_DIR$/kaggle.com/colinmorris/hello-python/Numbers and arithmetic in Python.py" afterPath="$PROJECT_DIR$/src/kaggle.com/colinmorris/hello-python/Numbers and arithmetic in Python.py" />
-      <change beforePath="$PROJECT_DIR$/kaggle.com/colinmorris/hello-python/README.md" afterPath="$PROJECT_DIR$/src/kaggle.com/colinmorris/hello-python/README.md" />
-      <change beforePath="$PROJECT_DIR$/kaggle.com/colinmorris/hello-python/example1.py" afterPath="$PROJECT_DIR$/src/kaggle.com/colinmorris/hello-python/example1.py" />
-    </list>
+    <list default="true" id="4286b65e-d14e-4cd9-93ec-a40dbc74239d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,11 +11,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="helpExample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/helpExample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lambda functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/Lambda functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="exceptionExamples.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/handlingExceptions/exceptionExamples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,8 +44,8 @@
       <file leaf-file-name="handlepitfalls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/handlingExceptions/handlepitfalls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,8 +54,8 @@
       <file leaf-file-name="listException.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/handlingExceptions/listException.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/documentation/stdlib/Internet Access.py" />
-        <option value="$PROJECT_DIR$/documentation/stdlib/mailserver running.py" />
         <option value="$PROJECT_DIR$/documentation/stdlib/Dates and Times.py" />
         <option value="$PROJECT_DIR$/documentation/stdlib/Data Compression.py" />
         <option value="$PROJECT_DIR$/documentation/stdlib/Performance Measurement.py" />
@@ -189,6 +140,8 @@
         <option value="$PROJECT_DIR$/documentation/string/template-ggg.py" />
         <option value="$PROJECT_DIR$/Hands-on Python Tutorial/Graphics/bounce4.py" />
         <option value="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/countingstopwatch.py" />
+        <option value="$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/helpExample.py" />
+        <option value="$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/Lambda functions.py" />
       </list>
     </option>
   </component>
@@ -257,22 +210,7 @@
               <item name="app" type="b2602c69:ProjectViewProjectNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaggle.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaggle.com" type="462c0819:PsiDirectoryNode" />
-              <item name="colinmorris" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaggle.com" type="462c0819:PsiDirectoryNode" />
-              <item name="colinmorris" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="handlingExceptions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="app" type="b2602c69:ProjectViewProjectNode" />
@@ -338,20 +276,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pitfalls">
-    <configuration name="BankAccount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.handlepitfalls">
+    <configuration name="Lambda functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningToProgramWithPython/customTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/kaggle.com/colinmorris/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="app" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/BankAccount.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/Lambda functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,24 +313,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="countingstopwatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningToProgramWithPython/customTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="app" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningToProgramWithPython/customTypes/countingstopwatch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="exceptionExamples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,19 +331,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="letterCombinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="handlepitfalls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interviewQuestions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/handlingExceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="app" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interviewQuestions/letterCombinations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/handlingExceptions/handlepitfalls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="helpExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/kaggle.com/colinmorris/functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="app" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/helpExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,19 +387,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.SanityCheck" />
-      <item index="1" class="java.lang.String" itemvalue="Python.letterCombinations" />
-      <item index="2" class="java.lang.String" itemvalue="Python.BankAccount" />
-      <item index="3" class="java.lang.String" itemvalue="Python.countingstopwatch" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exceptionExamples" />
-      <item index="5" class="java.lang.String" itemvalue="Python.pitfalls" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exceptionExamples" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pitfalls" />
+      <item index="3" class="java.lang.String" itemvalue="Python.helpExample" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Lambda functions" />
+      <item index="5" class="java.lang.String" itemvalue="Python.handlepitfalls" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pitfalls" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exceptionExamples" />
-        <item index="2" class="java.lang.String" itemvalue="Python.countingstopwatch" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BankAccount" />
-        <item index="4" class="java.lang.String" itemvalue="Python.letterCombinations" />
+        <item index="0" class="java.lang.String" itemvalue="Python.handlepitfalls" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Lambda functions" />
+        <item index="2" class="java.lang.String" itemvalue="Python.helpExample" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pitfalls" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exceptionExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -515,8 +453,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-8" width="1872" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17880794" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17880794" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -610,8 +549,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/documentation/stdlib2/Logging module.py" />
-    <entry file="file://$PROJECT_DIR$/documentation/stdlib2/Weak References.py" />
     <entry file="file://$PROJECT_DIR$/documentation/stdlib2/Tools for Working with Lists.py" />
     <entry file="file://$PROJECT_DIR$/documentation/stdlib2/bisect module.py" />
     <entry file="file://$PROJECT_DIR$/documentation/stdlib2/heapq module.py" />
@@ -764,26 +701,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/helpExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kaggle.com/colinmorris/functions/Lambda functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/handlingExceptions/exceptionExamples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/handlingExceptions/handlepitfalls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/handlingExceptions/listException.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
