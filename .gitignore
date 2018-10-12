@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+apps/app-docs/\.idea/workspace\.xml
+
+apps/app-docs/\.idea/
