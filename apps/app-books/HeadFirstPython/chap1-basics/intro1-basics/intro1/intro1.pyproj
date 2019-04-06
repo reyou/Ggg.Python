@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e1040109-a09d-4d00-bd69-0435b8c20676</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>intro1.py</StartupFile>
+    <StartupFile>intro7-elif.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,25 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="intro1.py" />
+    <Compile Include="intro4-date.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="intro2-html.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="intro1-array.py" />
+    <Compile Include="intro3-standardLib.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="intro6-sys.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="intro5-time.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="intro7-elif.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
