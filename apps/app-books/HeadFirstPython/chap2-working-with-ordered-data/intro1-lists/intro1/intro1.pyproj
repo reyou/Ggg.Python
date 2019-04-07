@@ -1,0 +1,49 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>e1040109-a09d-4d00-bd69-0435b8c20676</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>intro11-for-slices.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>intro1</Name>
+    <RootNamespace>intro1</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="intro11-for-slices.py" />
+    <Compile Include="intro2-working-lists.py" />
+    <Compile Include="intro1-creating-lists.py" />
+    <Compile Include="intro3-growing-a-list-at-runtime.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="intro10-list-for-loop.py" />
+    <Compile Include="intro9-slices.py" />
+    <Compile Include="intro8-starting-and-stopping.py" />
+    <Compile Include="intro7-list-slices.py" />
+    <Compile Include="intro6-negative-index-values.py" />
+    <Compile Include="intro5-list-copy.py" />
+    <Compile Include="intro4-list-methods.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
