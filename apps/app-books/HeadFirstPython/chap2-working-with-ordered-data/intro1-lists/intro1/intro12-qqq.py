@@ -1,1 +1,0 @@
-## page 88 - Marvin’s Slices in Detail

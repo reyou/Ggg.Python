@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e1040109-a09d-4d00-bd69-0435b8c20676</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>intro12-Wrong-with-Lists.py</StartupFile>
+    <StartupFile>intro5-iterating-with-items.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,20 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="intro12-Wrong-with-Lists.py" />
-    <Compile Include="intro11-for-slices.py" />
-    <Compile Include="intro2-working-lists.py" />
-    <Compile Include="intro1-creating-lists.py" />
-    <Compile Include="intro3-growing-a-list-at-runtime.py">
+    <Compile Include="intro3-vowels-count.py" />
+    <Compile Include="intro2-dictionary-runtime.py" />
+    <Compile Include="intro1-dictionary.py" />
+    <Compile Include="intro4-Specifying-the-ordering.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="intro10-list-for-loop.py" />
-    <Compile Include="intro9-slices.py" />
-    <Compile Include="intro8-starting-and-stopping.py" />
-    <Compile Include="intro7-list-slices.py" />
-    <Compile Include="intro6-negative-index-values.py" />
-    <Compile Include="intro5-list-copy.py" />
-    <Compile Include="intro4-list-methods.py">
+    <Compile Include="intro5-iterating-with-items.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
