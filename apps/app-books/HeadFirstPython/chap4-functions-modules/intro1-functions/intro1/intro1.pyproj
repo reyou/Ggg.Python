@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e1040109-a09d-4d00-bd69-0435b8c20676</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>intro4-vowels-set-union.py</StartupFile>
+    <StartupFile>intro6-annotations.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,10 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="intro4-vowels-set-union.py" />
-    <Compile Include="intro3-vowels-set-method.py" />
-    <Compile Include="intro2-vowels-set.py" />
-    <Compile Include="intro1-vowels-list.py" />
+    <Compile Include="intro6-annotations.py" />
+    <Compile Include="intro5-multiple-return.py" />
+    <Compile Include="intro4-return.py" />
+    <Compile Include="intro3-arguments.py" />
+    <Compile Include="intro2-docstring.py" />
+    <Compile Include="intro1-def.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
